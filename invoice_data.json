@@ -1,0 +1,15 @@
+{
+  "rate": 40,
+  "invnumber": 3,
+  "hours": 12,
+  "invperiod": "August 2024",
+  "desc": "A summary of tasks completed for the period of August 2024. Add more details as required.",
+  "billto": {
+    "org": "CoolOrg.net",
+    "ref": "ceo@coolorg.net"
+  },
+  "payable": {
+    "org": "Example Contractor",
+    "ref": "freelancing@example.com"
+  }
+}
